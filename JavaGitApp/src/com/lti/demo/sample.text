@@ -1,0 +1,4 @@
+class product
+{
+int a=10;
+}
